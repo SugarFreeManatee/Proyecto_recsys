@@ -20,3 +20,6 @@ spotify_demo.mp4
 spotify
 .streamlit/
 Streamlit.ipynb
+*.wordvectors
+*.npy
+*.model
