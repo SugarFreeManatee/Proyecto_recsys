@@ -1,0 +1,52 @@
+--------------------------------
+LSTM Adaptive Softmax Baseline New Formula
+--------------------------------
+Test NDCG: 0.1021872494759476
+Test R-Precision: 0.04012500122189522
+Test R-Precision for 1: 0.019500000402331352
+Test NDCG for 1: 0.15628332928551278
+Test R-Precision for 5: 0.05050000175833702
+Test NDCG for 5: 0.34893324833759637
+Test R-Precision for 10: 0.039000000804662704
+Test NDCG for 10: 0.3370006813660881
+Test R-Precision for 25: 0.05150000378489494
+Test NDCG for 25: 0.4158824140503531
+--------------------------------
+LSTM Adaptive Softmax Lambda 0
+--------------------------------
+Test NDCG: 0.10335874548156102
+Test R-Precision: 0.04062500223517418
+Test R-Precision for 1: 0.020000001415610313
+Test NDCG for 1: 0.15673576884261262
+Test R-Precision for 5: 0.05350000411272049
+Test NDCG for 5: 0.35139625466221286
+Test R-Precision for 10: 0.03450000286102295
+Test NDCG for 10: 0.3362416324246145
+Test R-Precision for 25: 0.05450000241398811
+Test NDCG for 25: 0.4179898246273184
+--------------------------------
+LSTM Adaptive Softmax Lambda 0.5
+--------------------------------
+Test NDCG: 0.10213423841862168
+Test R-Precision: 0.03987500071525574
+Test R-Precision for 1: 0.023000001907348633
+Test NDCG for 1: 0.15687459719832825
+Test R-Precision for 5: 0.05050000175833702
+Test NDCG for 5: 0.34947277919877906
+Test R-Precision for 10: 0.039000000804662704
+Test NDCG for 10: 0.3374805737656696
+Test R-Precision for 25: 0.04700000211596489
+Test NDCG for 25: 0.4165825569092612
+--------------------------------
+LSTM Adaptive Softmax Lambda 1
+--------------------------------
+Test NDCG: 0.10284807267051527
+Test R-Precision: 0.042125001549720764
+Test R-Precision for 1: 0.019500000402331352
+Test NDCG for 1: 0.1573160961414854
+Test R-Precision for 5: 0.05050000175833702
+Test NDCG for 5: 0.3504420463679055
+Test R-Precision for 10: 0.04350000247359276
+Test NDCG for 10: 0.3389573460393398
+Test R-Precision for 25: 0.055000003427267075
+Test NDCG for 25: 0.41629504583523236

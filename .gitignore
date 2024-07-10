@@ -23,3 +23,8 @@ Streamlit.ipynb
 *.wordvectors
 *.npy
 *.model
+
+runs/
+models/
+*log
+final_data/
